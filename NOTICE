@@ -1,0 +1,6 @@
+trusttunnel-go
+Copyright 2026 The Mistgate authors
+
+An independent implementation of the wire format of TrustTunnel
+(https://github.com/TrustTunnel/TrustTunnel, Apache-2.0, by AdGuard),
+written from its public specification. It contains no code of that project.
